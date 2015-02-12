@@ -1,0 +1,27 @@
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes.dex : \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\BuildConfig.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\CordovaApp.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\Manifest$permission.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\Manifest.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\R$attr.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\R$drawable.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\R$string.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\R$xml.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\myapp\myapk\R.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\plugin\gcm\CordovaGCMBroadcastReceiver.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\plugin\gcm\GCMIntentService.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\plugin\gcm\PushHandlerActivity.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\com\plugin\gcm\PushPlugin.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactInfoDTO.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$4.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\classes\org\hygieiasoft\cordova\uid\UID.class \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\dexedLibs\classes-f596284f2ee3b465ee14768ddad01761.jar \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\dexedLibs\gcm-1b92e8160410be04cec0aeaf4e8a29d1.jar \
+C:\Users\a0123056r\Clientjqm\javaca\platforms\android\ant-build\dexedLibs\android-support-v13-471091219377f0982153aa5a4e5c8221.jar \
